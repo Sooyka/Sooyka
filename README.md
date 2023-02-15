@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sooyka
-- 👀 I’m interested in mathematics
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on decentralized communication protocols
-- 📫 How to reach me: via matrix (matrix.org) as @sooyka:sooyka.xyz
+- 👀 I’m interested in mathematics, music, language, physics and engineering
+- 🌱 I’m currently learning Nix
+- 💞️ I’m looking to collaborate on stuff, similar to the ones you will find below
+- 📫 How to reach me: via matrix (matrix.org) as @sooyka:sooyka.xyz or via email as bartosz.sjka@protonmail.com
 
 <!---
 Sooyka/Sooyka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
